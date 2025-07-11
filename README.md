@@ -1,4 +1,4 @@
-# TO DO List App Using Django with CRUD Operation
+# 📝 Django Todo‑App
 
 A simple Todo application built with **Django** to create, view, update, and delete tasks. Ideal for beginners learning Django’s architecture and best practices.
 
@@ -62,6 +62,23 @@ python manage.py runserver
 ```
 
 Visit [http://127.0.0.1:8000](http://127.0.0.1:8000) to use the app.
+
+<br>
+
+## Application UI
+
+### 📝 Adding a Task
+![Form to add a new task in Zentask](./IMG/zentask%20ss1.png)
+
+### ✅ Task Marked as Completed
+![Task shown in completed tab after marking as done](./IMG/zentask%20ss2.png)
+
+### 🧹 Clearing Completed Tasks
+![User clearing all completed tasks using clear button](./IMG/zentask%20ss3.png)
+
+### 📭 After Tasks Are Cleared
+![Empty state of the UI after clearing completed tasks](./IMG/zentask%20ss4.png)
+
 
 ---
 
@@ -154,4 +171,3 @@ db.sqlite3
 ## 📬 Feedback
 
 Feel free to open issues or submit PRs to improve this project! Contributions are welcome.
-
